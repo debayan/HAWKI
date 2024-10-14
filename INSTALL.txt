@@ -1,0 +1,5 @@
+# cp ./private/.env.example .env
+# docker build -t hawki .
+# docker run -p 8080:80 hawki
+
+then open http://localhost:8080 on your web browser.
